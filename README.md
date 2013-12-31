@@ -1,0 +1,4 @@
+UserIdExtractor
+===============
+
+UserIdExtractor MapReduce Exercice
